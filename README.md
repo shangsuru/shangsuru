@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shangsuru&&theme=dracula&count_weight=0&size_weight=1&hide=Jupyter%20Notebook) ![](https://media.giphy.com/media/UqxVRm1IaaIGk/giphy.gif)
-
+![](https://media.giphy.com/media/UqxVRm1IaaIGk/giphy.gif)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shangsuru&&theme=dracula&count_weight=0&size_weight=1&hide=Jupyter%20Notebook)
 
 
 <!--
