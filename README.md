@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shangsuru&&theme=dracula&count_weight=0&size_weight=1&hide=Jupyter%20Notebook)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shangsuru&&theme=dracula&count_weight=0&size_weight=1&hide=Jupyter%20Notebook) ![](https://media.giphy.com/media/UqxVRm1IaaIGk/giphy.gif)
 
-![](https://media.giphy.com/media/UqxVRm1IaaIGk/giphy.gif)
+
 
 <!--
 **shangsuru/shangsuru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
