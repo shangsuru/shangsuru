@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zizi4n5&&layout=dracula&count_weight=1&size_weight=0&hide=html,css,glsl,astro)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shangsuru&&layout=dracula&count_weight=1&size_weight=0)
 
 <!--
 **shangsuru/shangsuru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
