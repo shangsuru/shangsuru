@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=anuraghazra&theme=dracula&layout=donut&hide=html,css,glsl,astro)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=anuraghazra&theme=dracula&layout=donut&hide=html,css,glsl,astro&count_weight=1&size_weight=0)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **shangsuru/shangsuru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
