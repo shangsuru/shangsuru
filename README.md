@@ -1,6 +1,13 @@
-### Hi there 👋
+### Hi there. I'm Henry. 👋
+
+🔭 Working on MoneyForward's identity platform. <br>
+🌱 Learning web security.
+
+Check out my [blog](https://henryhelm.com)!
 
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shangsuru&&theme=dracula&count_weight=0&size_weight=1&hide=Jupyter%20Notebook)
+
+
 
 
 <!--
